@@ -1,37 +1,37 @@
 # Basic site info
-title:              "heiswayi nrird •••"
-description:        "Life Experience, Technology & Research"
-keywords:           "heiswayi nrird, personal blog, software engineer, life experience, technology and research"
-logo_text:          "Heiswayi Nrird"
+title:              "İsa ALP •••"
+description:        "I want a beautiful life."
+keywords:           "isa,alp,isa alp,hello"
+logo_text:          "İsa ALP"
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
 og_locale:          "en_US"
 cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
-url:                https://heiswayi.nrird.com # main url
+url:                http://isaalp.com # main url
 baseurl:            null # for gh-pages
-enforce_ssl:        heiswayi.nrird.com
+enforce_ssl:        isaalp.com
 
 # Site author info
 author:
   name:             "Heiswayi Nrird"
-  email:            hnrird@gmail.com
-  github_username:  heiswayi
-  twitter_username: HeiswayiNrird
-  facebook_url:     https://www.facebook.com/heiswayi.nrird
+  email:            isa@isaalp.com
+  github_username:  alp
+  twitter_username: alp
+  facebook_url:     https://www.facebook.com
 
 # Disqus comment settings
 disqus_enabled:     false
-disqus_shortname:   hnbloggithub
+disqus_shortname:   1111
 
 # GA
-google_analytics_code: UA-58296043-7
+google_analytics_code: 
 
 # Build settings
 source:             ./
 destination:        ./_site
-permalink:          /:year/:title
+permalink:          /:title
 markdown:           kramdown
 highlighter:        rouge
 timezone:           Asia/Kuala_Lumpur
