@@ -1,8 +1,8 @@
 # Basic site info
-title:              "İsa ALP •••"
+title:              "isa ALP •••"
 description:        "I want a beautiful life."
 keywords:           "isa,alp,isa alp,hello"
-logo_text:          "İsa ALP"
+logo_text:          "isa ALP"
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
 og_locale:          "en_US"
@@ -15,7 +15,7 @@ enforce_ssl:        isaalp.com
 
 # Site author info
 author:
-  name:             "Heiswayi Nrird"
+  name:             "alp"
   email:            isa@isaalp.com
   github_username:  alp
   twitter_username: alp
